@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OPS Plan Overview</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            font-size: 19px;
+            color: black;
+            background-color: white;
+            text-align: center;
+            max-width: 600px;
+            margin: auto;
+        }
+        img {
+            width: 150px;
+            border-radius: 50%;
+        }
+        p {
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>OPS Plan Overview</h1>
+    <img src="selfie.jpg" alt="My Selfie">
+    
+    <p><strong>Introduction:</strong> Hridyanshu Mittra, IT Help Desk Supervisor</p>
+    <p><strong>Reason:</strong> Fiscal year internal help desk operations plan</p>
+    <p><strong>Mission:</strong> Fast, reliable IT support improving user experience</p>
+    <p><strong>Vision:</strong> Efficient, proactive support ensuring seamless operations</p>
+    
+    <p><strong>Goal 1:</strong> Reduce response time 20% by Q2 (HDI: 8.020)</p>
+    <p><strong>Benefit:</strong> Faster issue resolution improves productivity</p>
+    
+    <p><strong>Goal 2:</strong> Cut resolution time 15% by Q3 (HDI: 8.040)</p>
+    <p><strong>Benefit:</strong> Quicker fixes enhance efficiency</p>
+    
+    <p><strong>Goal 3:</strong> Improve self-service use 10% by year-end (HDI: 8.016)</p>
+    <p><strong>Benefit:</strong> Users solve issues independently</p>
+    
+    <p><strong>Goal 4:</strong> Boost satisfaction 5% by next quarter (HDI: 7.010)</p>
+    <p><strong>Benefit:</strong> Happier users improve engagement</p>
+    
+    <p><strong>Goal 5:</strong> Enhance agent utilization 12% by year-end (HDI: 6.040)</p>
+    <p><strong>Benefit:</strong> More efficiency, less downtime</p>
+    
+    <p><strong>Feedback:</strong> Email: hridyanshu@email.com | Phone: 123-456-7890</p>
+</body>
+</html>
